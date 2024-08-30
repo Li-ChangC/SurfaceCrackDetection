@@ -5,7 +5,7 @@ This repository contains the resources and notebook for the INFO 6105 final proj
 
 ## Contents
 - `SurfaceCrackDetection-Pre.pptx`: A PowerPoint presentation detailing the project scope, dataset analysis, machine learning models evaluated, and findings.
-- `Final Term Project.ipynb`: A Jupyter notebook that includes the code for dataset preprocessing, model training, evaluation, and visualizations.
+- `Final Term Project.ipynb`: A Jupyter notebook that includes the code for dataset preprocessing, model training, evaluation, and visualizations. To avoid academic integrity issues, it will not be uploaded online. Please contact the author if you need a reference.
 
 ## Project Description
 The project explores various machine learning methods to identify and classify surface cracks in concrete. It involves steps such as:
